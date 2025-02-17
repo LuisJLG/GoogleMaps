@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778113107738",
+    "project_id": "handy-house-50bf7",
+    "storage_bucket": "handy-house-50bf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778113107738:android:a594cbe9e8d48af50f4ea3",
+        "android_client_info": {
+          "package_name": "com.handysms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ23p15LcBPSUJCvwzbeCn_RY_Qs0gTig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
